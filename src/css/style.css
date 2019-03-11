@@ -1,7 +1,3 @@
-body {
-  background-color: black;
-  color: whitesmoke;
-}
 .order-enter {
   -webkit-transform: translateX(-120%);
   transform: translateX(-120%);
